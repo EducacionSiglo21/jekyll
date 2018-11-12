@@ -1,12 +1,12 @@
-title:             Educación Siglo XXI
-email:             your-email@example.com
-description:       Educación Siglo XII web page
+title:             La Educación del Siglo XXI
+email:             jornadaseducacion.comisionorg@ gmail.com
+description:       V Jornadas. Una Educación para el Siglo XXI. Miradas desde las Ciencias y las Artes.
 author:            Educación Siglo XXI
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  EDUCACION_SXXI
+github_username:   EducacionSiglo21
+facebook_username: FacebookUser
 
 # Build settings
 markdown:          kramdown
