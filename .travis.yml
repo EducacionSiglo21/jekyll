@@ -1,0 +1,26 @@
+language: ruby
+rvm: 2.4.1
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  -sudo: true
+cache: bundler # caching bundler gem packages will speed up build
+
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install -y pngquant
+  - sudo apt-get install -y jpegoptim
+
+install: bundle install
+script: ./scripts/cibuild.sh
+
+deploy:
+  provider: pages
+  local-dir: _site
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: false
+  repo: EducacionSiglo21/educacionsiglo21.github.io
+  target-branch: master
+  on:
+    branch: master%
