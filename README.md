@@ -1,18 +1,18 @@
-# [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/) - Official Jekyll Version
+## Original Jekyll Theme README [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/) - Official Jekyll Version
 
 [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working contact form powered by [Formspree](https://formspree.io/).
 
 This repository holds the official Jekyll version of the Clean Blog!
 
-## Preview
+### Preview
 
 [![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
 
 **[View Live Preview](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)**
 
-## Installation & Setup
+### Installation & Setup
 
-### Using RubyGems:
+#### Using RubyGems:
 
 When installing the theme using RubyGems, demo images, posts, and pages are not included. Follow the instructions below for complete setup.
 
@@ -101,7 +101,7 @@ Make sure you have the `email` setting in your `_config.yml` file set to a worki
 
 6. Build your site: `bundle exec jekyll serve`
 
-### Using Core Files
+#### Using Core Files
 
 When using the core files, the demo images, posts, and pages are all included with the download. After following the instructions below, you can then go and change the content of the pages and posts.
 
@@ -118,11 +118,11 @@ When using the core files, the demo images, posts, and pages are all included wi
    - `github_username` (Optional)
 3. Build your site: `bundle exec jekyll serve`
 
-## Bugs and Issues
+### Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues) here on GitHub!
 
-## About
+### About
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
@@ -137,6 +137,6 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+### Copyright and License
 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/blob/gh-pages/LICENSE) license.
