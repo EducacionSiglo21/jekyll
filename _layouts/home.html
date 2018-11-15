@@ -14,10 +14,18 @@ layout: default
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
             <h1>{{ site.title }}</h1>
+            {% if site.subtitle %}
+              <span class="subheading">{{ site.subtitle }}</span>
+            {% endif %}
             {% if site.description %}
               <span class="subheading">{{ site.description }}</span>
             {% endif %}
+              <br/>
               <a style="color: white" href="https://jornadas-sobre-educacion-s-xxi.webnode.es/" target="_blank">Ediciones Anteriores</a>
+              <br/>
+              <a style="color: white" href="/downloads/exposicionEscuelaPublica.pdf" target="_blank">Escuela Pública. El Futuro de la Educación</a>
+              <br/>
+              <a style="color: white" href="/downloads/misionesPedagogicas.pdf" target="_blank">Misiones Pedagógicas</a>
           </div>
         </div>
       </div>
