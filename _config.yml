@@ -23,6 +23,20 @@ pagination:
   permalink: "/:num/"
   title: ':title'
 
+# Autopages
+autopages:
+  enabled: true
+  tags:
+    enabled: true
+    layouts: 
+      - 'autopage_tags.html'
+    title: 'Programa - :tag'
+    permalink: '/programa/:tag'
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+
 exclude:
   - Gemfile
   - Gemfile.lock

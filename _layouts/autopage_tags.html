@@ -1,0 +1,46 @@
+---
+layout: page
+background: '/img/bg-index.jpg'
+---
+
+{% for post in paginator.posts %}
+
+<article class="post-preview">
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <h2 class="post-title">{{ post.title }}</h2>
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+    {% else %}
+    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+    {% endif %}
+  </a>
+  <p class="post-meta">
+    {% if post.placeName %}
+      {{ post.placeName }}
+    {% endif %}
+    - {{ post.eventDate | date: '%B %d, %Y. %H:%M' }}
+  </p>
+</article>
+
+<hr>
+
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+
+<div class="clearfix">
+
+  {% if paginator.previous_page %}
+  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
+    Actividades<span class="d-none d-md-inline"> Anteriores</span></a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Actividades<span
+      class="d-none d-md-inline"> Siguientes</span> &rarr;</a>
+  {% endif %}
+
+</div>
+
+{% endif %}
