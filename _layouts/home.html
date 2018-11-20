@@ -41,8 +41,11 @@ layout: default
         {{ content }}
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 5 %}
+        {% assign sorted_posts = site.posts | sort: 'eventDate' %}
 
+        {% for post in sorted_posts limit : 10 %}
+        
+        {% if post.eventDate > site.time %}
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <h2 class="post-title">{{ post.title }}</h2>
@@ -52,21 +55,20 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">
+          <p class="post-meta">En
             {% if post.placeName %}
-            {{ post.placeName }}
+            En {{ post.placeName }}
             {% endif %}
-            - {{ post.eventDate | date: '%B %d, %Y. %H:%M' }}
-          </p>
+            {{ post.eventDate | date: '%H:%M, %B %d, %Y' }}</p>
         </article>
 
         <hr>
-
+        {% endif %}
         {% endfor %}
 
         <!-- Pager -->
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/programa" | relative_url }}">Ver todas las actividades &rarr;</a>
+          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">Todas las Actividades &rarr;</a>
         </div>
 
       </div>
