@@ -19,8 +19,8 @@ plugins:
 # Pagination
 pagination:
   enabled: true
-  per_page: 2
-  permalink: "/page/:num/"
+  per_page: 10
+  permalink: "/:num/"
   title: ':title'
 
 exclude:
