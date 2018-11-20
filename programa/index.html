@@ -36,12 +36,12 @@ pagination:
 
   {% if paginator.previous_page %}
   <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Actividades<span class="d-none d-md-inline"> Siguientes</span></a>
+    Actividades<span class="d-none d-md-inline"> Anteriores</span></a>
   {% endif %}
 
   {% if paginator.next_page %}
   <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Actividades<span
-      class="d-none d-md-inline"> Anteriores</span> &rarr;</a>
+      class="d-none d-md-inline"> Siguientes</span> &rarr;</a>
   {% endif %}
 
 </div>
