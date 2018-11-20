@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CONFERENCIA"
-subtitle: "Heike Freire en Alhama de Murcia"
+title: "Heike Freire en Alhama de Murcia"
+subtitle: "Conferencia"
 background: "/img/posts/bg-alhama.jpg"
 eventDate: 2019-02-09 19:00:00 +0100
 placeName: "Casa de la Cultura, Alhama de Murcia."

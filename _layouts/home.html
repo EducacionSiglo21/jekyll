@@ -55,9 +55,9 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">En
+          <p class="post-meta">
             {% if post.placeName %}
-            En {{ post.placeName }}
+            {{ post.placeName }}
             {% endif %}
             {{ post.eventDate | date: '%H:%M, %B %d, %Y' }}</p>
         </article>

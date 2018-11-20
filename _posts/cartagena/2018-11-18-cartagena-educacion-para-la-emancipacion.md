@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CONFERENCIA"
-subtitle: "Una educación para la emancipación del ser humano."
+title: "Una educación para la emancipación del ser humano."
+subtitle: "Conferencia"
 background: "/img/posts/bg-cartagena.jpg"
 eventDate: 2019-01-30 19:00:00 +0100
 placeName: "Escuela Técnica Superir de Arquitectura y Edificación, Cartagena."

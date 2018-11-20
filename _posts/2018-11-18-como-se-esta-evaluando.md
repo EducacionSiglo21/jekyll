@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MESA REDONDA"
-subtitle: "¿Cómo se está evaluando? ¿Qué dice la ley y qué se hace? ¿Quién lo hace bien?"
+title: "¿Cómo se está evaluando? ¿Qué dice la ley y qué se hace? ¿Quién lo hace bien?"
+subtitle: "Mesa redonda"
 background: "/img/bg-about.jpg"
 eventDate: 2019-01-24 20:00:00 +0100
 placeName: "Hemiciclo de letras, Campus La Merced."

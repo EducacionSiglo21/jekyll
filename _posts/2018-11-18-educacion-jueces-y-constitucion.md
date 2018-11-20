@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CONFERENCIA INAUGURAL"
-subtitle: "Educación, Jueces y Constitución. ¿Una cuestión interpretativa o ideológica?"
+title: "Educación, Jueces y Constitución. ¿Una cuestión interpretativa o ideológica?"
+subtitle: "Conferencia inaugural"
 background: "/img/bg-index.jpg"
 eventDate: 2019-01-17 20:00:00 +0100
 placeName: "Paraninfo de la Universidad. Campus La Merced."
