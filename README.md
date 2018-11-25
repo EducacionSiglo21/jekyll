@@ -28,7 +28,7 @@ Una vez te enviemos la invitación a la organización Educación Siglo XXI en Gi
 
 # Estructura del proyecto
 
-Este repositorio contiene un proyecto de Jekyll que podemos modificar desde la propia web de GitHub. Contiene una serie de archivos ``html``, ``png``, ``jpg`` y ``md`` que contienen la información que se muestar en la web. Podemos cambiar de forma automática cualquier contenido mostrado en la web desde nuestro navegador modificando el contenido de los ficheros, **pero modificar parte del contenido es más sencillo que otro**. **Este proyecto está pensado para que personas sin un gran conocimiento sobre desarrollo web puedan cambiar el contenido de las actividades que organiza el ateneo fácilmente**. Para ello solo tendrán que cambiar la información que aparece en los archivos ``.md`` dentro del directorio ``_posts``. A continuación detallaremos cómo añadir, editar y borrar contenido de la web junto con algo de información sobre como embeber vídeos de YouTube o imágenes que subiremos nosotros mismos.
+Este repositorio contiene un proyecto de Jekyll que podemos modificar desde la propia web de GitHub. Contiene una serie de archivos ``html``, ``png``, ``jpg`` y ``md`` que contienen la información que se muestar en la web. Podemos cambiar de forma automática cualquier contenido mostrado en la web desde nuestro navegador modificando el contenido de los ficheros, **pero modificar parte del contenido es más sencillo que otro**. **Este proyecto está pensado para que personas sin un gran conocimiento sobre desarrollo web puedan cambiar el contenido de las actividades que organiza el equipo fácilmente**. Para ello solo tendrán que cambiar la información que aparece en los archivos ``.md`` dentro del directorio ``_posts``. A continuación detallaremos cómo añadir, editar y borrar contenido de la web junto con algo de información sobre como embeber vídeos de YouTube o imágenes que subiremos nosotros mismos.
 
 **Disclaimer: Decidimos usar un sitio estático generado con Jekyll y que se pueda modificar desde GitHub para evitar los costes de mantenimiento asociados a servidores y derivados. Desde la organización de Educación Siglo XXI creemos que estra infraestructura es suficiente por ahora para las necesidades del proyecto.**
 
@@ -134,7 +134,7 @@ presenters:
 
 Empezamos el año con un encuentro con la [Asociación de Hombre por la Igualdad de Género (AHIGE)](https://www.facebook.com/asociacion.ahige) con los que **charlaremos sobre la necesidad de que los hombres asumamos nuestra responsabilidad social y personal ante la injusticia que significa la discriminación en razón de sexo**, obtenemos la ventaja de poder situarnos ante el *machismo como algo dañino también para nosotros*.
 
-![ahigelogo](/images/posts/ahigeLogo.png)
+![ahigelogo](/img/posts/ahigeLogo.png)
 
 Por cada mujer cansada de tener que aparentar debilidad,
 hay un hombre que disfruta de protegerla esperando sumisión.
@@ -183,7 +183,7 @@ Esto es un texto **importante**.
 
 //Añadir una foto:
 
-![nombreDeLaFoto](/images/posts/mifoto.png)
+![nombreDeLaFoto](/img/posts/mifoto.png)
 
 //Escribir un título:
 
@@ -232,7 +232,7 @@ La página se actualizará en unos minutos.
 
 # Eliminar contenido de la web
 
-Para borrar una actividad de la web solo tenemos que borrar el archivo asociado a la actividad en la carpeta ``_posts`` o ``images`` 
+Para borrar una actividad de la web solo tenemos que borrar el archivo asociado a la actividad en la carpeta ``_posts`` o ``img`` 
 
 ![delete1](./art/delete1.png)
 
