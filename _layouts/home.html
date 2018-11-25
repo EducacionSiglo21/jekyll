@@ -43,7 +43,7 @@ layout: default
         <!-- Home Post List -->
         {% assign sorted_posts = site.posts | sort: 'eventDate' %}
 
-        {% for post in sorted_posts limit : 10 %}
+        {% for post in sorted_posts limit : 20 %}
         
         {% if post.eventDate > site.time %}
         <article class="post-preview">
