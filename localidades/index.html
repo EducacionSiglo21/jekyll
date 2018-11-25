@@ -1,0 +1,22 @@
+---
+layout: page
+title: "Localidades"
+background: '/img/bg-contact.jpg'
+pagination: 
+  enabled: true
+  sort_field: 'eventDate'
+  sort_reverse: true
+  categories: central
+---
+
+{% assign sorted_localities = site.data.localities | sort: 'name' %}
+{% for locality in sorted_localities %}
+<div class="post-preview">
+  <a href="{{ locality.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <h2 class="post-title">{{ locality.name }}</h2>
+  </a>
+</div>
+
+<hr>
+
+{% endfor %}

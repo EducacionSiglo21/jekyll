@@ -1,0 +1,11 @@
+- name: "Cartagena"
+  tag: "cartagena"
+  backgroundPhoto: "/img/bg-cartagena.jpg"
+  url: "/programa/cartagena"
+  
+- name: "Alhama"
+  tag: "alhama"
+  backgroundPhoto: "/img/bg-alhama.jpg"
+  url: "/programa/alhama"
+
+  
