@@ -1,11 +1,11 @@
 - name: "Cartagena"
   tag: "cartagena"
-  backgroundPhoto: "/img/bg-cartagena.jpg"
+  backgroundPhoto: "/img/posts/bg-cartagena.jpg"
   url: "/programa/cartagena"
   
 - name: "Alhama de Murcia"
   tag: "alhama"
-  backgroundPhoto: "/img/bg-alhama.jpg"
+  backgroundPhoto: "/img/posts/bg-alhama.jpg"
   url: "/programa/alhama"
 
   
