@@ -1,0 +1,44 @@
+# Strings for dates
+# language English
+abbreviated_weekday:
+  - Dom
+  - Lun
+  - Mar
+  - Mie
+  - Jue
+  - Vie
+  - Sáb
+full_weekday:
+  - Domingo
+  - Lunes
+  - Martes
+  - Miércoles
+  - Jueves
+  - Viernes
+  - Sábado
+abbreviated_month:
+  - Ene
+  - Feb
+  - Mar
+  - Abr
+  - May
+  - Jun
+  - Jul
+  - Ago
+  - Sep
+  - Oct
+  - Nov
+  - Dic
+full_month:
+  - Enero
+  - Febreo
+  - Marzo
+  - Abril
+  - Mayo
+  - Junio
+  - Julio
+  - Agosto
+  - Septiembre
+  - Octubre
+  - Noviembre
+  - Diciembre

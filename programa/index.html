@@ -23,7 +23,7 @@ pagination:
     {% if post.placeName %}
       {{ post.placeName }}
     {% endif %}
-    - {{ post.eventDate | date: '%B %d, %Y. %H:%M' }}
+    - {% include translated_date.html date=post.eventDate format="%H:%M, %d de %B, %Y" lang="es" %}
   </p>
 </article>
 
