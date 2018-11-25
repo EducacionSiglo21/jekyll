@@ -30,7 +30,7 @@ autopages:
     enabled: true
     layouts: 
       - 'autopage_tags.html'
-    title: 'Programa - :tag'
+    title: ':tag'
     permalink: '/programa/:tag'
   categories:
     enabled: false
