@@ -12,7 +12,7 @@ presenters:
     - name: "M.ª José Martínez Ruiz Funes"
    
 ---
-Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar] (https://educacionsiglo21.es/webinar)
+Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)
 
  
 
