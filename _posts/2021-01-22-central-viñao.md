@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Educación, Estado y Autonomías: lecciones de la Covid 19"
+title: "Conferencia: Educación, Estado y Autonomías: lecciones de la Covid 19"
 subtitle: "Antonio Viñao Frago"
 background: "/img/bg-index.jpg"
 eventdate: 2021-02-18 19:00:00 +0100
