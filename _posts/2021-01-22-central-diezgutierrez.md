@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Conferencia: Ponente: . ( Profesor de la Facultad de Educación de la Universidad de León).
-Ponencia: La nueva ley educativa ¿ un proyecto educativo de cohesión y justicia social ?"
+title: "Conferencia:  La nueva ley educativa ¿un proyecto educativo de cohesión y justicia social?"
 subtitle: "Enrique Díez Gutiérrez"
 background: "/img/bg-index.jpg"
 eventdate: 2021-02-11 19:00:00 +0100
