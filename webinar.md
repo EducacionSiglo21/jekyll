@@ -1,3 +1,3 @@
 ---
-redirect_to: https://us02web.zoom.us/j/81082256518
+redirect_to: https://umurcia.zoom.us/j/92888662315
 ---
