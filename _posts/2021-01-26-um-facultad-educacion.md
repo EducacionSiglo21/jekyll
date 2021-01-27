@@ -7,7 +7,7 @@ eventdate: 2021-02-10 17:00:00 +0100
 placeName: "Facultad de Educación y online "
 category: "central"
 speakers:
-    - name: "D. Enrique Díez Gutiérrez"
+    - name: "D. Enrique J. Díez Gutiérrez"
 
    
 ---
@@ -16,7 +16,7 @@ Presencial:  Aula 0.12
 
 
 
-# JUAN ANT. GACÍA ORTEGA 
+# ENRIQUE J. DÍEZ GUTIÉRREZ
 ![cartel](/img/posts/diezgutierrez.png)  
 Profesor de la Facultad de Educación de la Universidad de León. Doctor en Ciencias de la Educación, licenciado en Filosofía y diplomado en Trabajo Social y Educación Social. Ha trabajado también como educador social, maestro de primaria, profesor de secundaria, orientador en institutos y como responsable de atención a la diversidad en la administración. Especialista en organización educativa, desarrolla su labor docente e investigadora en el campo de la educación intercultural, el género y la política educativa.  
 Entre sus últimas publicaciones se encuentran: La revuelta educativa neocon (Trea, 2019), Neoliberalismo educativo (Octaedro, 2018), La polis secuestrada. Propuestas para una ciudad educadora (Trea, 2018) y La educación que necesitamos, con Alberto Garzón (Akal, 2016).
