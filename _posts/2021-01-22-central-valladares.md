@@ -4,7 +4,7 @@ title: "Conferencia: La sostenibilidad no es una opción."
 subtitle: "Fernando Valladares Ros"
 background: "/img/bg-index.jpg"
 eventdate: 2021-02-25 19:00:00 +0100
-placeName: "Edición digital: https://educacionsiglo21.es/online"
+placeName: "Edición digital: https://educacionsiglo21.es/webinar"
 category: "central"
 speakers:
     - name: "D. Fernando Valladares Ros"
