@@ -4,7 +4,7 @@ title: "Conferencia: A golpes con la habitación propia: instrucciones para disl
 subtitle: "Ana Carrasco Conde"
 background: "/img/bg-index.jpg"
 eventdate: 2021-03-02 19:00:00 +0100
-placeName: "Edición digital: https://educacionsiglo21.es/online"
+placeName: "Edición digital: https://educacionsiglo21.es/webinar"
 category: "central"
 speakers:
     - name: "Dña. Ana Carrasco Conde"
