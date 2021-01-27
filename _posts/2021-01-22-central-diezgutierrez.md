@@ -4,7 +4,7 @@ title: "Conferencia:  La nueva ley educativa ¿un proyecto educativo de cohesió
 subtitle: "Enrique Díez Gutiérrez"
 background: "/img/bg-index.jpg"
 eventdate: 2021-02-11 19:00:00 +0100
-placeName: "Edición digital: https://educacionsiglo21.es/online"
+placeName: "Edición digital: https://educacionsiglo21.es/webinar"
 category: "central"
 speakers:
     - name: "D. Enrique Díez Gutiérrez"
