@@ -4,15 +4,14 @@ title: "Conferencia: Empujando un nuevo modelo social sobre las bases científic
 subtitle: "Fernando Valladares Ros"
 background: "/img/bg-index.jpg"
 eventdate: 2021-02-25 12:30:00 +0100
-placeName: "Salón de actos Hermenegildo Lumera.  Ftad. de Biología"
+placeName: "Salón de actos Hermenegildo Lumera.  Ftad. de Biología. También online"
 category: "central"
 speakers:
     - name: "D. Fernando Valladares Ros"
 presenters:
     - name: "Dña. Alfonsa García Ayala"
    
----
-Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)  
+---  
 
 
 
