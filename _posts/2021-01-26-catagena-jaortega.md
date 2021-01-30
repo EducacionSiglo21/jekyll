@@ -2,7 +2,7 @@
 layout: post
 title: "CONFERENCIA INAUGURAL: Salud, Educación Medio Ambiente. Somos Naturaleza: hacia una nueva Ilustración."
 subtitle: "Juan Antonio Ortega García"
-background: "/img/bg-index.jpg"
+background: "/img/bg-cartagena.jpg"
 eventdate: 2021-02-04 18:30:00 +0100
 placeName: "Edición digital: https://educacionsiglo21.es/webinar"
 category: "local"
