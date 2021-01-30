@@ -3,7 +3,7 @@ layout: post
 title: "Panel: LA EDUCACIÓN EN TIEMPOS DEL COVID. REPERCUSIONES PARA
 LA COMUNIDAD ESCOLAR."
 subtitle: "Panel de enseñantes y familia"
-background: "/img/bg-index.jpg"
+background: "/img/bg-cartagena.jpg"
 eventdate: 2021-03-11 19:00:00 +0100
 placeName: "Edición digital: https://educacionsiglo21.es/online"
 category: "local"
