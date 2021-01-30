@@ -2,7 +2,7 @@
 layout: post
 title: "Conferencia:  La nueva ley educativa ¿un proyecto educativo de cohesión y justicia social?"
 subtitle: "Enrique Díez Gutiérrez"
-background: "/img/bg-index.jpg"
+background: "/img/bg-cartagena.jpg"
 eventdate: 2021-02-11 19:00:00 +0100
 placeName: "Edición digital: https://educacionsiglo21.es/webinar"
 category: "local"
