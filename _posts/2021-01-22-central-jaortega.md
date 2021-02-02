@@ -13,7 +13,7 @@ presenters:
    
 ---
 Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)  
-
+![cartel](/img/posts/jaortegapant.png)  
 
 
 # JUAN ANT. ORTEGA GARCÍA
