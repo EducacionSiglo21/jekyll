@@ -3,7 +3,7 @@ layout: post
 title: "Conferencia: Empujando un nuevo modelo social sobre las bases científicas del cambio climático."
 subtitle: "Fernando Valladares Ros"
 background: "/img/bg-index.jpg"
-eventdate: 2021-02-25 12:30:00 +0100
+eventdate: 2021-03-12 12:30:00 +0100
 placeName: "Salón de actos Hermenegildo Lumera.  Ftad. de Biología. También online"
 category: "central"
 speakers:
@@ -13,7 +13,7 @@ presenters:
    
 ---  
 
-
+Enlace para asistente video conferencia [https:](https://) 
 
 # FERNANDO VALLADARES ROS  
 ![cartel](/img/posts/valladares.png)  
