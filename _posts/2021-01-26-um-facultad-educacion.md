@@ -14,7 +14,7 @@ speakers:
 # Programa Universidad:  Facultad de Educación.  
 Presencial:  Aula 0.12
 
-
+Enlace para asistente video conferencia [https://umurcia.zoom.us/j/98277915963?pwd=VnNseWxuMkV1UmpYVGF5NXNhSFEzdz09](https://umurcia.zoom.us/j/98277915963?pwd=VnNseWxuMkV1UmpYVGF5NXNhSFEzdz09) 
 
 # ENRIQUE J. DÍEZ GUTIÉRREZ
 ![cartel](/img/posts/diezgutierrez.png)  
