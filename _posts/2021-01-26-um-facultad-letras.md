@@ -3,7 +3,7 @@ layout: post
 title: "Conferencia:  La asignatura pendiente.  La memoria histórica democrática en los libros de texto escolares"
 subtitle: "Programa Universidad:  Facultad de Letras- Dto.de Historia Moderna, Contemporanea..."
 background: "/img/bg-index.jpg"
-eventdate: 2021-02-09 18:00:00 +0100
+eventdate: 2021-03-02 18:00:00 +0100
 placeName: "Online "
 category: "central"
 speakers:
