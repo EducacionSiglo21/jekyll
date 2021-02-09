@@ -14,7 +14,7 @@ speakers:
 # Programa Universidad:  Facultad de letras.  Dto. Historia Moderna, Contemporanea, de América, del Pensamiento y los Movimientos Sociales y Políticos.    
 Formato:  Online.  
 
-
+Enlace para asistente video conferencia [https://umurcia.zoom.us/j/93935311984?pwd=Y21uSjJSU2lyQ0NkeHB6dFVybE92dz09](https://umurcia.zoom.us/j/93935311984?pwd=Y21uSjJSU2lyQ0NkeHB6dFVybE92dz09) 
 
 # ENRIQUE J. DÍEZ GUTIÉRREZ  
 ![cartel](/img/posts/diezgutierrez.png)  
