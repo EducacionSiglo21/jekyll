@@ -14,7 +14,7 @@ presenters:
 ---
 Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)
 
- 
+ ![cartel](/img/posts/pantallazoviñao21.jpg)  
 
 # ANTONIO VIÑAO FRAGO  
 ![cartel](/img/posts/viñao21.png)  
