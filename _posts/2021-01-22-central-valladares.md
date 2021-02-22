@@ -13,7 +13,6 @@ presenters:
    
 ---
 Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)  
-
 ![cartel](/img/posts/fernandovalladares.png)  
 
 # FERNANDO VALLADARES ROS  
