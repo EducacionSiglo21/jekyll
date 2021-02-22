@@ -14,7 +14,7 @@ presenters:
 ---
 Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)  
 
-![cartel](/img/posts/anacarrasco1.jpg)  
+![cartel](/img/posts/anacarrasco1.jpg)
 
 # ANA CARRASCO CONDE  
 ![cartel](/img/posts/anacarrasco.png)  
