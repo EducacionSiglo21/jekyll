@@ -41,4 +41,5 @@ jobs:
           repository-name: EducacionSiglo21/educacionsiglo21.github.io
           branch: master
           folder: _site
+          clean: true
           token: ${{ secrets.DEPLOYMENT_TOKEN }}

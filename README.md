@@ -1,6 +1,6 @@
 # <img src="./art/logo.png" width="60px;"/> Educación Siglo XXI
 
-[![Build Status](https://travis-ci.com/EducacionSiglo21/jekyll.svg?branch=master)](https://travis-ci.com/EducacionSiglo21/jekyll)
+[![Deploy](https://github.com/EducacionSiglo21/jekyll/actions/workflows/deploy.yml/badge.svg)](https://github.com/EducacionSiglo21/jekyll/actions/workflows/deploy.yml)
 
 Repositorio de código de la página web del Ateneo Villa de Molina de Segura [https://educacionsiglo21.github.io](https://educacionsiglo21.github.io).
 
