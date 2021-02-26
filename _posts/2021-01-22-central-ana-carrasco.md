@@ -14,10 +14,10 @@ presenters:
 ---
 Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)  
 
-![cartel](/img/posts/anacarrasco1.jpg)
+![cartel](/img/posts/cartelAnaCarrasco.png)
 
 # ANA CARRASCO CONDE  
-![cartel](/img/posts/anacarrasco.png)  
+![foto](/img/posts/anacarrasco.png)  
 Doctora Europa en Filosofía por la Universidad Autónoma de Madrid,  completó su formación en la Université Paris Ouest Nanterre La Défense (Francia).  
 Profesora de Filosofía Moderna y Contemporánea en la Universidad Complutense de Madrid y miembro del Consejo del Instituto de Investigación Feministas de la UCM.  
 Colaboradora en la Revista La Marea y en Cadena SER ( espacio Hoy por Hoy).  
