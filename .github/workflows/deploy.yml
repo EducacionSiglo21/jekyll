@@ -5,8 +5,8 @@ on:
       - master
   workflow_dispatch:
 jobs:
-  build:
-    name: Build
+  deploy:
+    name: Deploy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository.
@@ -41,3 +41,4 @@ jobs:
           repository-name: EducacionSiglo21/educacionsiglo21.github.io
           branch: master
           folder: _site
+          token: ${{ secrets.DEPLOYMENT_TOKEN }}
