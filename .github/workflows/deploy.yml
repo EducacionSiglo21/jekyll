@@ -17,10 +17,10 @@ jobs:
         with:
           ruby-version: 2.4.1
 
-      - name: Install bundler specific version
+      - name: Install bundler 1.15 version.
         run: gem install bundler:1.15
 
-      - name: Install dependencies
+      - name: Install dependencies.
         run: bundler _1.15_ install  
 
       - name: Update apt-get.
@@ -34,4 +34,10 @@ jobs:
 
       - name: Optimize images and generate static site.
         run: ./scripts/cibuild.sh
-        
+
+      - name: Deploy to GitHub pages.
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          repository-name: EducacionSiglo21/educacionsiglo21.github.io
+          branch: master
+          folder: _site
