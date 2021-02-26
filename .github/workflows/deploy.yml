@@ -1,0 +1,32 @@
+name: "Build, lint, and test"
+on: 
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+jobs:
+  test:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository.
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby 2.4.1 and perform bundle install.
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.4.1
+          bundler-cache: true
+
+      - name: Update apt-get.
+        uses: sudo apt-get update
+
+      - name: Install pngquant.
+        uses: sudo apt-get install -y pngquant
+      
+      - name: Install jpegoptim.
+        uses: sudo apt-get install -y jpegoptim
+
+      - name: Optimize images and generate static site.
+        uses: ./scripts/cibuild.sh
+        
