@@ -5,7 +5,7 @@ on:
       - master
   workflow_dispatch:
 jobs:
-  test:
+  build:
     name: Build
     runs-on: ubuntu-latest
     steps:
@@ -16,7 +16,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.4.1
-          bundler-cache: true
+
+      - name: Install bundler specific version
+        run: gem install bundler:1.15
+
+      - name: Install dependencies
+        run: bundler _1.15_ install  
 
       - name: Update apt-get.
         run: sudo apt-get update
