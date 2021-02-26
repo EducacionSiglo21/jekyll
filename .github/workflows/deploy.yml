@@ -40,7 +40,7 @@ jobs:
       - name: Deploy to GitHub pages.
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.DEPLOY_TOKEN }}
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
           external_repository: EducacionSiglo21/educacionsiglo21.github.io
           publish_branch: master
           publish_dir: _site
