@@ -4,6 +4,8 @@ on:
     branches:
       - master
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   deploy:
     name: Deploy
@@ -40,6 +42,7 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
           BASE_BRANCH: master # The branch the action should deploy from.
+          REPOSITORY_NAME: EducacionSiglo21/educacionsiglo21.github.io # The repository where we want to deploy our site
           BRANCH: master # The branch the action should deploy to.
           FOLDER: _site
           SINGLE_COMMIT: true
