@@ -38,7 +38,7 @@ jobs:
         run: ./scripts/cibuild.sh
 
       - name: Deploy to GitHub pages.
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+                uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           ACCESS_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
           BASE_BRANCH: master # The branch the action should deploy from.
