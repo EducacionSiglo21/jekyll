@@ -1,4 +1,4 @@
-name: "Build, lint, and test"
+name: "Deploy"
 on: 
   push:
     branches:
@@ -19,14 +19,14 @@ jobs:
           bundler-cache: true
 
       - name: Update apt-get.
-        uses: sudo apt-get update
+        run: sudo apt-get update
 
       - name: Install pngquant.
-        uses: sudo apt-get install -y pngquant
+        run: sudo apt-get install -y pngquant
       
       - name: Install jpegoptim.
-        uses: sudo apt-get install -y jpegoptim
+        run: sudo apt-get install -y jpegoptim
 
       - name: Optimize images and generate static site.
-        uses: ./scripts/cibuild.sh
+        run: ./scripts/cibuild.sh
         
