@@ -42,4 +42,4 @@ jobs:
           branch: master
           folder: _site
           single-commit: true
-          ssh-key: ${{ secrets.DEPLOY_KEY }}
+          token: ${{ secrets.DEPLOY_TOKEN }}
