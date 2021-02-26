@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-JEKYLL_ENV=production bundle exec jekyll build
+JEKYLL_ENV=production bundle _1.15_ exec jekyll build
 
 compressJpgFile() {
   jpegoptim --strip-all --all-progressive -f --dest=../posts/ $1
