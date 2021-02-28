@@ -3,7 +3,7 @@ layout: post
 title: "Taller de Medio Ambiente.  Plantación de Bosque de Ribera"
 subtitle: "Taller medioambiental"
 background: "/img/posts/bg-lorqui.jpg"
-eventdate: 2020-03-06 09:30:00 +0100
+eventdate: 2021-03-06 09:30:00 +0100
 category: "local"
 tags: "lorqui"
 placeName: "Puente del río, orilla de Lorquí"
@@ -11,7 +11,7 @@ placeName: "Puente del río, orilla de Lorquí"
 
     
 ---
- ## Colaboran:
+ # Colaboran:
 
 El Ayuntamiento de Lorquí, Protección Civil, Confederación Hidrográfica del Segura, Asociación Futuro de la Educación para la Región de Murcia (AFEReM) dentro de las VII Jornadas una Educación para el Siglo XXI (Taller medio ambiental), ANSE, Ecologistas en Acción, Acciona, Asociación Camino al Humanismo y a la Ciencia y otros voluntarios colaboran en este taller medio ambiental beneficioso para los pueblos de Lorquí y Ceutí y, para la mejora del río Segura.  
 
