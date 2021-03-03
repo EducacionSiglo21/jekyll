@@ -20,4 +20,4 @@ Sábado día 13 de marzo de 2021, en la margen del río a su paso por el municip
 Lugar de encuentro en el puente, ribera de Ceutí.
 Atendiendo a las medidas sanitarias anticovid19, se plantarán árboles en dos turnos con inscripción previa en el Ayuntamiento de Ceutí: 9,30 – 11,30 h. (20 personas) y  11,00 – 13,30 h. (20 personas). Se necesita nombre, apellidos y DNI. Escribir al correo: centrocultural@ceuti.es.  
 Recomendable llevar guantes.  
-![cartel](/img/posts/plantacionceuti.jpg)
+![cartel](/img/posts/plantceuti.jpg)
