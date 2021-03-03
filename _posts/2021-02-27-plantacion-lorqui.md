@@ -20,4 +20,4 @@ Sábado día 6 de marzo de 2021, en la margen del río a su paso por el municipi
 Lugar de encuentro en el puente, ribera de Lorquí.
 Atendiendo a las medidas sanitarias anticovid19, se plantarán árboles en dos turnos con inscripción previa en el Ayuntamiento de Lorquí: 9,30 – 11,30 h. (20 personas) y  11,00 – 13,30 h. (20 personas). Se necesita nombre, apellidos y DNI. Escribir al correo: promocionsocial@lorqui.es o al teléfono 968.690001 (a la atención de Isabel Torregrosa).
 
-![cartel](/img/posts/plantacionlorqui.jpg)
+![cartel](/img/posts/plantlorqui.jpg)
