@@ -17,6 +17,7 @@ presenters:
 ---
 Enlace para asistente video conferencia [https://educacionsiglo21.es/webinar](https://educacionsiglo21.es/webinar)  
 
+![cartel](/img/posts/PANEL.png)  
 # Mesa:  
 Dña. M.ª José Campillo  
 Dña. Francica López Gracia, Pta. FAPA Juan González.  
