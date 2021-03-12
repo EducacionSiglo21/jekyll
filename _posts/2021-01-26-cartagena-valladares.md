@@ -3,7 +3,7 @@ layout: post
 title: "Conferencia: Biodiversidad y Cambio Global."
 subtitle: "Fernando Valladares Ros"
 background: "/img/bg-index.jpg"
-eventdate: 2021-03-25 19:00:00 +0100
+eventdate: 2021-03-17 19:00:00 +0100
 placeName: "Online.  Enlace de Cartagena Piensa"
 category: "local"
 tags: "cartagena"
