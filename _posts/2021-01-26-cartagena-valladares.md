@@ -14,7 +14,7 @@ presenters:
    
 ---
 # Actividad relizada en colaboración con "Cartagena Piensa".  
-Enlace para asistente video conferencia [https://us02web.zoom.us/j/83484958738?pwd=U21JUkQ5YmQ3RDdjaVQzSG1QVkkwQT09](https://us02web.zoom.us/j/83484958738?pwd=U21JUkQ5YmQ3RDdjaVQzSG1QVkkwQT09)  
+Enlace para asistente vídeoconferencia [https://us02web.zoom.us/j/83484958738?pwd=U21JUkQ5YmQ3RDdjaVQzSG1QVkkwQT09](https://us02web.zoom.us/j/83484958738?pwd=U21JUkQ5YmQ3RDdjaVQzSG1QVkkwQT09)  
 
 
 
