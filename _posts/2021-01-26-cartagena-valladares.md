@@ -20,7 +20,7 @@ Enlace para asistente vídeoconferencia [https://us02web.zoom.us/j/83484958738?p
 
 
 # FERNANDO VALLADARES ROS  
-![cartel](/img/posts/valladarescartpiensa.jpg)  
+![cartel](/img/posts/valladarescartpiensa.jpeg)  
 Doctor en Ciencias Biológicas por la Universidad Complutense de Madrid  con premios extraordinarios de licenciatura y doctorado y premio internacional Mason H. Hale (Canadá, 1994). En la actualidad es profesor de investigación del CSIC, donde dirige el grupo de Ecología y Cambio Global en el Museo Nacional de Ciencias Naturales. Es además profesor asociado de la Universidad Rey Juan Carlos de Madrid. Es el director del laboratorio internacional de Cambio Global LINCGlobal  y del Máster Universitario de Cambio Global de la Universidad Internacional Menéndez Pelayo y el CSIC.
 
 ## Conferencia:  
