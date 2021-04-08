@@ -3,9 +3,10 @@ layout: post
 title: "VII Jornadas Una Educación para el Siglo XXI. Miradas desde las Ciencias y las Artes"
 subtitle: "CALASPARRA, meses de abril y mayo"
 background: "/img/posts/bg-calasparra.jpg"
-eventdate: 2021-04-22 20:00:00 +0100
+eventdate: 2021-06-21 20:00:00 +0100
 category: "local"
 tags: "calasparra"
 ---
-## En esta edición, dadas las especiales circunstancias provocadas por la pandemia, las actividades se desarrollarán a partir del 15 de abril y hasta final de curso.  
-![cartel](/img/posts/1campañapub.png)  
+ 
+![cartel](/img/posts/1calasparra21.jpg)  
+![cartel](/img/posts/2calasparra21.jpg)  
