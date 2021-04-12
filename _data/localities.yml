@@ -92,3 +92,8 @@
   tag: "murcia"
   backgroundPhoto: "/img/posts/bg-murcia.jpg"
   url: "/programa/murcia"
+
+- name: "Los Alcázares"
+  tag: "losalcazares"
+  backgroundPhoto: "/img/posts/bg-losalcazares.png"
+  url: "/programa/los-alcazares"
