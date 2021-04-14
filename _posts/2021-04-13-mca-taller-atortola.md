@@ -9,7 +9,7 @@ placeMapsUrl: https://www.google.com/maps/place/Museo+de+la+Ciencia+y+el+Agua/@3
 category: "local"
 tags: "murcia"
 speakers:
-    - name: "Ängel Tórtola"
+    - name: "Ángel Tórtola"
 
 ---
 
