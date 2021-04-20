@@ -1,3 +1,4 @@
+---
 layout: post
 title: "MIRAR EL AGUA"
 subtitle: "Educación plástica, ciencia y naturaleza"
