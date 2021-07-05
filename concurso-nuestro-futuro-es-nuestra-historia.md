@@ -49,7 +49,7 @@ Javier López Soler, de Águilas - Murcia.
 Dos Accésit a los trabajos:
 - Pólvora de la mañana, de Ángel Medina Linares, de Setenil de las Bodegas - Cádiz.
 - Estrategia del terror. Campo de Albatera, de Lucía Cartagena López.
-- 
+
 # 2.- Categoría estudiantes universitarios/as
 Primer premio al trabajo La renovación del liberalismo, de Raúl Zarzuela Domínguez.
 Universidad de Valencia.
